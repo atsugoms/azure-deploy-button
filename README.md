@@ -1,5 +1,5 @@
 
 Visit following URL
 
-https://akinaritsugo.github.io/azure-deploy-button/
+https://atsugoms.github.io/azure-deploy-button/
 
